@@ -1,4 +1,4 @@
-//% color=#009b5b icon="\uf1eb" block="ESP8266 ThingSpeak"
+//% color=#009b5b icon="\uf1eb" block="ESP8266 read ThingSpeak by naim"
 namespace esp8266_read_by_naim {
 
     let wifi_connected: boolean = false
